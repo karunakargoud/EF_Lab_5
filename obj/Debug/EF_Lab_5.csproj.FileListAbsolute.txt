@@ -1,0 +1,14 @@
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EF_Lab_5.exe.config
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EF_Lab_5.exe
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EF_Lab_5.pdb
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EntityFramework.dll
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EntityFramework.xml
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.csproj.Up2Date
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.exe
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.pdb
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.Migrations.FirstTime.resources
+C:\Users\karun\source\repos\EF_Lab_5\EF_Lab_5\obj\Debug\EF_Lab_5.csproj.GenerateResource.cache
